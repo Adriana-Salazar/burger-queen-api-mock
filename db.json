@@ -69,7 +69,7 @@
       "id": 1,
       "name": "American coffee",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://perfectdailygrind.com/wp-content/uploads/2020/08/Filter-or-Americano-2.jpg",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -244,6 +244,18 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "chef",
       "id": 3
+    },
+    {
+      "email": "karen.waiter@myrestro.com",
+      "password": "123456",
+      "role": "waiter",
+      "id": 4
+    },
+    {
+      "email": "nora.chef@myrestro.com",
+      "password": "123456",
+      "role": "chef",
+      "id": 5
     }
   ]
 }

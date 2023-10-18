@@ -80,7 +80,7 @@
       "image": "https://i.blogs.es/421374/cafe-con-leche2/1366_2000.jpg",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
-    },    
+    },
     {
       "id": 3,
       "name": "Chocolate milkshake",
@@ -96,7 +96,7 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzCasCu9WJaTaARlkEARxl9BXhItzCmpBWw&usqp=CAU",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
-    },   
+    },
     {
       "id": 6,
       "name": "Jugo de Naranja",
@@ -128,7 +128,7 @@
       "image": "https://thumbs.dreamstime.com/b/agua-embotellada-6796559.jpg",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
-    },    
+    },
     {
       "id": 9,
       "name": "Sándwich de Jamón y Queso",
@@ -147,86 +147,6 @@
     },
     {
       "id": 11,
-      "name": "Hamburguesa Clásica",
-      "price": 1000,
-      "image": "https://i.ytimg.com/vi/dhD8SCJciaM/maxresdefault.jpg",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 12,
-      "name": "Hamburguesa Bacon",
-      "price": 1000,
-      "image": "https://assets.kraftfoods.com/recipe_images/opendeploy/74255_640x428.jpg",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 13,
-      "name": "Hamburguesa de Queso",
-      "price": 1000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpIsXnkIVlQ68rziT0jNaoPXzZoDAZUt6koQ&usqp=CAU",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 14,
-      "name": "Hamburguesa Doble",
-      "price": 1000,
-      "image": "https://www.elespectador.com/resizer/BZqku81acRFHG6sYcZBT1JEACjQ=/525x350/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/N5EPKUWMIVH4RCPNDM7OP5OKQQ.jpeg",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 15,
-      "name": "Hamburguesa + Soda + Papas Fritas",
-      "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/combo1.png",
-      "type": "Combos",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 16,
-      "name": "Hamburguesa + Soda",
-      "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/combo2.png",
-      "type": "Combos",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 17,
-      "name": "Hamburguesa + Soda + Batido",
-      "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/combo3.png",
-      "type": "Combos",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 18,
-      "name": "Aros de cebolla",
-      "price": 1000,
-      "image": "https://img.freepik.com/fotos-premium/cesta-aros-cebolla-forro-papel_771703-27839.jpg",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 19,
-      "name": "Papas Fritas",
-      "price": 1000,
-      "image": "https://www.chilis.pe/Multimedia/productos/detalle/PAPASFRITASCASERAS_V1.PNG",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 20,
-      "name": "Ensalada",
-      "price": 1000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJyuFB9pucKLAn6b3IXd-438fcEdQJzsQQw&usqp=CAU",
-      "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 21,
       "name": "Sándwich de Huevo",
       "price": 1000,
       "image": "https://assets.kraftfoods.com/recipe_images/opendeploy/124311_640x428.jpg",
@@ -234,11 +154,67 @@
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 22,
+      "id": 12,
       "name": "Empanada",
       "price": 1000,
       "image": "https://www.recetasnatura.com.ar/sites/default/files/empanadas_de_pollo.jpg",
       "type": "Breakfast",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 13,
+      "name": "Hamburguesa Clásica",
+      "price": 1000,
+      "image": "https://i.ytimg.com/vi/dhD8SCJciaM/maxresdefault.jpg",
+      "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 14,
+      "name": "Hamburguesa Bacon",
+      "price": 1000,
+      "image": "https://assets.kraftfoods.com/recipe_images/opendeploy/74255_640x428.jpg",
+      "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 15,
+      "name": "Hamburguesa de Queso",
+      "price": 1000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpIsXnkIVlQ68rziT0jNaoPXzZoDAZUt6koQ&usqp=CAU",
+      "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 16,
+      "name": "Hamburguesa Doble",
+      "price": 1000,
+      "image": "https://www.elespectador.com/resizer/BZqku81acRFHG6sYcZBT1JEACjQ=/525x350/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/N5EPKUWMIVH4RCPNDM7OP5OKQQ.jpeg",
+      "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 17,
+      "name": "Aros de cebolla",
+      "price": 1000,
+      "image": "https://www.istockphoto.com/es/foto/aros-de-cebolla-gm923270066-253437183",
+      "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 18,
+      "name": "Papas Fritas",
+      "price": 1000,
+      "image": "https://www.chilis.pe/Multimedia/productos/detalle/PAPASFRITASCASERAS_V1.PNG",
+      "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 19,
+      "name": "Ensalada",
+      "price": 1000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJyuFB9pucKLAn6b3IXd-438fcEdQJzsQQw&usqp=CAU",
+      "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],

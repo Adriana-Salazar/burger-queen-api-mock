@@ -205,7 +205,7 @@
       "id": 18,
       "name": "Aros de cebolla",
       "price": 1000,
-      "image": "https://www.istockphoto.com/es/foto/aros-de-cebolla-gm923270066-253437183",
+      "image": "https://img.freepik.com/fotos-premium/cesta-aros-cebolla-forro-papel_771703-27839.jpg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -223,6 +223,22 @@
       "price": 1000,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJyuFB9pucKLAn6b3IXd-438fcEdQJzsQQw&usqp=CAU",
       "type": "Lunch",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 21,
+      "name": "Sándwich de Huevo",
+      "price": 1000,
+      "image": "https://assets.kraftfoods.com/recipe_images/opendeploy/124311_640x428.jpg",
+      "type": "Breakfast",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 22,
+      "name": "Empanada",
+      "price": 1000,
+      "image": "https://www.recetasnatura.com.ar/sites/default/files/empanadas_de_pollo.jpg",
+      "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
